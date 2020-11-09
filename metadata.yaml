@@ -1,4 +1,5 @@
-documentation: https://businesshelp.snapchat.com/en-US/article/pixel-website-install
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/snapchat/"
 versions:
   - sha: de181492be6308e5bfcc542c750fe4223ce51c78
     changeNotes: Initial release.
