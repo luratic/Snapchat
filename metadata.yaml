@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/snapchat/"
 versions:
+  # Latest version
+  - sha: 8d3f017aeb6fa527c065f67f262b44bb9ce079aa
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: de181492be6308e5bfcc542c750fe4223ce51c78
     changeNotes: Initial release.
